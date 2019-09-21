@@ -1,8 +1,8 @@
-<center>[![Django](https://img.shields.io/badge/Django-v2.2.5-green.svg "Django Version")](https://www.djangoproject.com/) [![Python](https://img.shields.io/badge/Python-v3.7.4-yellow.svg "Python Version")](https://www.python.org/) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/seb646/django-polling/blob/master/LICENSE)
+A polling application created using Python and Django. 
 
-A polling web application created using Python and Django. 
+[![Django](https://img.shields.io/badge/Django-v2.2.5-green.svg "Django Version")](https://www.djangoproject.com) [![Python](https://img.shields.io/badge/Python-v3.7.4-yellow.svg "Python Version")](https://www.python.org) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")](https://github.com/seb646/django-polling/blob/master/LICENSE)
 
-[Report a Bug](https://github.com/seb646/django-polling/issues/new)</center><br>
+[Report a Bug](https://github.com/seb646/django-polling/issues/new)
 
 ## Getting Started
 This project was developed and tested on a local machine. The tutorial below outlines how to run the project in a local environment. 
